@@ -1,0 +1,1 @@
+# lambda-save-s3-file-when-deleted
